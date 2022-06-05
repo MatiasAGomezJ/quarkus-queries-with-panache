@@ -1,4 +1,4 @@
-# dao-pattern Project
+# quarkus-with-active-record Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
